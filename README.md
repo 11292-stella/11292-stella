@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Ciao, sono Stella!
 
-<!--
-**11292-stella/11292-stella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sto studiando per diventare **Full Stack Developer** con il percorso Epicode.  
+🚀 Qui trovi una selezione dei miei progetti più rappresentativi, sia front-end che back-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologie che sto usando
+
+- 🖥️ HTML5, CSS3, JavaScript
+- ⚛️ React, Redux, Bootstrap
+- ☕ Java, Spring Boot
+- 📦 MySQL, PostgreSQL
+- ☁️ API REST, Cloudinary, JavaMail
+- 🧪 JUnit, Postman
+
+---
+
+## 🚀 Progetti in evidenza
+
+| Progetto | Descrizione | Linguaggio |
+|---------|-------------|------------|
+| [App Meteo](https://github.com/11292-stella/App_Meteo) | App per consultare il meteo usando API esterne | JavaScript |
+| [Blogging App](https://github.com/11292-stella/blogging-app) | Backend Java per gestione articoli/blog con Spring Boot | Java |
+| [Gestione Viaggi](https://github.com/11292-stella/Gestione_Viaggi) | Progetto gestionale con entità viaggio e CRUD completo | Java |
+| [Music Play](https://github.com/11292-stella/Music_play) | Player musicale con interfaccia interattiva | JavaScript |
+| [Netflix Clone](https://github.com/11292-stella/Netflix_with_Api) | Clone di Netflix che consuma API di film | JavaScript |
+| [Invio dati via Gmail](https://github.com/11292-stella/Invio_dati_gmail) | Sistema Java che invia email con JavaMailSender | Java |
+
+---
+
+## 📬 Contatti
+
+- ✉️ [stella.marucelli@gmail.com](mailto:stella.marucelli@gmail.com)
