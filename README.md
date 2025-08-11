@@ -20,6 +20,7 @@
 
 | Progetto | Descrizione | Linguaggio |
 |---------|-------------|------------|
+| CV-Stella](https://github.com/11292-stella/cv-stella-marucelli) | CV-stella marucelli | React |
 | [Sneaky Workout](https://github.com/11292-stella/AppWeb-Sneacky-Workout) | web app full-stack | Java - React |
 | [App Meteo](https://github.com/11292-stella/App_Meteo) | App per consultare il meteo usando API esterne | JavaScript |
 | [Blogging App](https://github.com/11292-stella/blogging-app) | Backend Java per gestione articoli/blog con Spring Boot | Java |
