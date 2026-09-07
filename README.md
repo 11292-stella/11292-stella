@@ -53,6 +53,6 @@
 ## 📬 Contatti
 
 - ✉️ stella.marucelli@gmail.com
-- 💼 [Portfolio](https://portfolio-qa-8f6q.onrender.com)
+- 💼 [Portfolio](https://portfolio-loading.vercel.app)
 - 🐙 [GitHub](https://github.com/11292-stella)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stella-marucelli/)
